@@ -102,6 +102,8 @@ public class TipoPrendaTest {
 
     assertEquals(new Prenda(TipoPrenda.ANTEOJO_SOL, Material.PLASTICO, null, CategoriaPrenda.ACCESORIO, "negro", null).getTrama(),
                  TramaPrenda.LISA);
+
+
   }
 
 
